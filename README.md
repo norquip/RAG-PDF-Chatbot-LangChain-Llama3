@@ -12,10 +12,11 @@ To build an end-to-end system that retrieves relevant document context and gener
 ## Repository Structure
 ```
 RAG-PDF-Chatbot/
-│
-├── app.py   
+│   
 ├── .gitignore
 ├── README.md
+├── app.py
+├── my_PDF_Chatbot.png
 └── requirements.txt
 ```
 
