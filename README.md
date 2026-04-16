@@ -17,7 +17,7 @@ RAG-PDF-Chatbot/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-´´´
+```
 
 ---
 
