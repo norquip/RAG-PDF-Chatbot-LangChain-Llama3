@@ -8,14 +8,16 @@ This project implements a Retrieval-Augmented Generation (RAG) system to query a
 To build an end-to-end system that retrieves relevant document context and generates accurate responses using a large language model.
 
 
-Repository Structure
+
+## Repository Structure
+```
 RAG-PDF-Chatbot/
 │
-├── app.py             
-├── README.md          
-├── requirements.txt
-├── Visual demo
-
+├── app.py   
+├── .gitignore
+├── README.md
+└── requirements.txt
+´´´
 
 ---
 
