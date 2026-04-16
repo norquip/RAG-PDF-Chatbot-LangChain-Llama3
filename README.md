@@ -71,9 +71,9 @@ RAG-PDF-Chatbot/
 
 👉 [Gradio-Hugging](https://huggingface.co/spaces/norquip/my_pdf_chatbot)
 
-⚠️ Note
-This demo is hosted on Hugging Face Spaces (free tier).  
+⚠️ Note: This demo is hosted on Hugging Face Spaces (free tier).  
 If the app is inactive, it may take a few seconds to restart.
+
 ---
 
 ## 📌 Notes
