@@ -70,7 +70,9 @@ RAG-PDF-Chatbot/
 
 ## 🔗 Demo
 
-👉 [Gradio-Hugging](https://huggingface.co/spaces/norquip/my_pdf_chatbot)
+👉 [Gradio-Hugging-app](https://huggingface.co/spaces/norquip/my_pdf_chatbot)
+
+🔍 [Visual demo image](https://github.com/norquip/RAG-PDF-Chatbot-LangChain-Llama3/blob/main/my_PDF_Chatbot.png)
 
 ⚠️ Note: This demo is hosted on Hugging Face Spaces (free tier).  
 If the app is inactive, it may take a few seconds to restart.
